@@ -1,6 +1,6 @@
 package org.maghtuireadh.lunariush.byhishands;
 
-import org.maghtuireadh.lunariush.proxy.CommonProxy;
+import org.maghtuireadh.lunariush.byhishands.proxy.CommonProxy;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
