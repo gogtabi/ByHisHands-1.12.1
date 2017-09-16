@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bhh",
+  "name": "By His Hand",
+  "description": "Simple additions while learning",
+  "version": "1.12.1-0.0.1.0",
+  "mcversion": "1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LunariusH"],
+  "credits": "Lunarius - While he's learning",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
