@@ -1,0 +1,39 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+/CREDITS-fml.txt
+/LICENSE-new.txt
+/MinecraftForge-Credits.txt
+/Paulscode IBXM Library License.txt
+/Paulscode SoundSystem CodecIBXM License.txt
+/README.txt
+/build.gradle
+/forge-1.12.1-14.22.1.2478-changelog.txt
+/gradle.properties
+/gradlew
+/gradlew.bat
+/logs/
+/gradle/
+/saves/
+/config/
+/usercache.json
+/usernamecache.json
