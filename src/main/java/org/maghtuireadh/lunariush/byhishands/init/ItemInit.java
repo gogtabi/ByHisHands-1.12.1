@@ -2,6 +2,7 @@ package org.maghtuireadh.lunariush.byhishands.init;
 
 import org.maghtuireadh.lunariush.byhishands.Reference;
 import org.maghtuireadh.lunariush.byhishands.init.items.CustomIngot;
+import org.maghtuireadh.lunariush.byhishands.init.items.CustomItem;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
