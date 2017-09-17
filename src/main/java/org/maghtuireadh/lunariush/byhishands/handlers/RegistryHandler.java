@@ -10,5 +10,7 @@ public class RegistryHandler {
 	public static void Common() {
 		ItemInit.init();
 		BlockInit.init();
+		ItemInit.register();
+		BlockInit.register();
 	}
 }
